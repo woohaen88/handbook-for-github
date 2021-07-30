@@ -1,9 +1,13 @@
 # Handbook for github
 
-## 
+## Contents
 
-! 표 아이콘
-:impormation_source:
+1. [Github에 잘못 올라간 파일 삭제 과정](#Github에 잘못 올라간 파일 삭제 과정)
+1. [git add 취소하기](#git add 취소하기)
+1. [git commit 취소하기](#git commit 취소하기)
+
+## ICON link
+[github-emoji][github-emoji]참고
 
 
 ## Github에 잘못 올라간 파일 삭제 과정
@@ -37,3 +41,10 @@ git reset HEAD [file]
 ```bash
 $git reset HEAD^
 ```
+
+
+
+
+
+
+[github-emoji]: https://gist.github.com/rxaviers/7360908
