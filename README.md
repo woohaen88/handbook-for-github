@@ -3,7 +3,7 @@
 ## 
 
 ! 표 아이콘
-*:impormation_source:*
+:impormation_source:
 
 
 ## Github에 잘못 올라간 파일 삭제 과정
@@ -13,15 +13,15 @@
 
 ```bash
 # remote repository와 local에 있는 파일을 삭제
-$git rm [File Name]
-$git rm --cached [File Name]
+$ git rm [File Name]
+$ git rm --cached [File Name]
 ```
 
 2. commit 명령어와 push 를 수행
 ```bash
-$git commit -m "Fixed untracked files"
+$ git commit -m "Fixed untracked files"
 # remote repository에 push
-$git push origin master
+$ git push origin master
 ```
 
 ## git add 취소하기
