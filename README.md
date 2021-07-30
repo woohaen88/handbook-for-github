@@ -2,9 +2,10 @@
 
 ## Contents
 
-1. [Github에 잘못 올라간 파일 삭제 과정](#Github에 잘못 올라간 파일 삭제 과정)
-1. [git add 취소하기](#git add 취소하기)
-1. [git commit 취소하기](#git commit 취소하기)
+1. [Github에 잘못 올라간 파일 삭제 과정](#Github에-잘못-올라간-파일-삭제-과정)
+1. [git add 취소하기](#git-add-취소하기)
+1. [git commit 취소하기](#git-commit-취소하기)
+1. [fond style](#fond-style)
 
 ## ICON link
 [github-emoji][github-emoji]참고
@@ -42,6 +43,9 @@ git reset HEAD [file]
 $git reset HEAD^
 ```
 
+## font style
+span tag를 이용하여 style 지정  
+\<span style="color:red">"text"</span>
 
 
 
